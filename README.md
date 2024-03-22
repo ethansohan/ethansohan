@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-### I'm a Landing Page Designer & Developer
-![Landing Page Designer & Developer](https://media.licdn.com/dms/image/D5616AQFAEDB3PZeqDg/profile-displaybackgroundimage-shrink_350_1400/0/1680045262165?e=1716422400&v=beta&t=mXD5o_CbjpQFNnKn-U2F8XJ4BePUJ4J4cjOZDPzgQxE)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
+
+![I'm a Landing Page Designer & Developer](https://media.licdn.com/dms/image/D5616AQFAEDB3PZeqDg/profile-displaybackgroundimage-shrink_350_1400/0/1680045262165?e=1716422400&v=beta&t=mXD5o_CbjpQFNnKn-U2F8XJ4BePUJ4J4cjOZDPzgQxE)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -25,37 +25,34 @@
 ## 👨‍💻 Skills & Experiance: 
 ✅ Unbounce <br>
 ✅ WordPress <br> 
-✅ Shobify <be>
-✅ Instapage <be>
+✅ Shobify <br>
+✅ Instapage <br>
 ✅ CRO <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <be>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Figma <br>
-✅ Photoshop / Illustrator <be>
+✅ Photoshop / Illustrator <br>
 
 ## 🚀 MY SERVICES:
-✅ Custom Landing Page Design using Figma
-✅ Transforming Figma Designs into Any Builder
-✅ Expertise in Various Platforms including SamCart, Leadpages, Unbounce, Instapage, Mailchimp, GetResponse, and Landingi
-✅ Development of Effective Sales Funnels
-✅ Comprehensive CRO Audits and Strategy
-✅ Compelling Landing Page Copywriting
-✅ A/B Testing Implementation and Analysis
-✅ Strategic CRO Planning and Execution
-✅ Monthly Reports on Conversion Rate Optimization
-✅ Weekly Growth Dashboards for Insights
-✅ Continuous A/B Testing Variant Generation
-✅ Seamless CMS Integration with Klaviyo, ActiveCampaign, Aweber, and Mailchimp
+✅ Custom Landing Page Design using Figma <br>
+✅ Transforming Figma Designs into Any Builder <br>
+✅ Expertise in Various Platforms including SamCart, Leadpages, Unbounce, Instapage, Mailchimp, GetResponse, and Landingi <br>
+✅ Development of Effective Sales Funnels <br>
+✅ Comprehensive CRO Audits and Strategy <br>
+✅ Compelling Landing Page Copywriting <br>
+✅ A/B Testing Implementation and Analysis <br>
+✅ Strategic CRO Planning and Execution <br>
+✅ Monthly Reports on Conversion Rate Optimization <br>
+✅ Weekly Growth Dashboards for Insights <br> 
+✅ Continuous A/B Testing Variant Generation <br>
+✅ Seamless CMS Integration with Klaviyo, ActiveCampaign, Aweber, and Mailchimp <br>
 
 ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
 
-
-
 ## 📧 For Business Inquiries 
 ✅  ► ethansohan1101@gmail.com
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ethansohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ethansohan//)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ethansohan)  
