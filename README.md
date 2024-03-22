@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 
-![I'm a Landing Page Designer & Developer](https://media.licdn.com/dms/image/D5616AQFAEDB3PZeqDg/profile-displaybackgroundimage-shrink_350_1400/0/1680045262165?e=1716422400&v=beta&t=mXD5o_CbjpQFNnKn-U2F8XJ4BePUJ4J4cjOZDPzgQxE)
+## 🚀 I'm a Landing Page Designer & Developer
+(https://media.licdn.com/dms/image/D5616AQFAEDB3PZeqDg/profile-displaybackgroundimage-shrink_350_1400/0/1680045262165?e=1716422400&v=beta&t=mXD5o_CbjpQFNnKn-U2F8XJ4BePUJ4J4cjOZDPzgQxE)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -49,7 +50,7 @@
 ✅ Seamless CMS Integration with Klaviyo, ActiveCampaign, Aweber, and Mailchimp <br>
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/ethansohan/)  
 
 ## 📧 For Business Inquiries 
 ✅  ► ethansohan1101@gmail.com
