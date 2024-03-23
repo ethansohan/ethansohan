@@ -4,7 +4,6 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFLPmRW6-ZnvQ/profile-displaybackgroundimage-shrink_350_1400/0/1711190838805?e=1716422400&v=beta&t=3tnLiqCBxMxfRPOHdsHSwpogFmiaDEZfJfsZVd08vSw)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
